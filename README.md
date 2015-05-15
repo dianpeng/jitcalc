@@ -4,7 +4,7 @@ A simple integer calculator using JIT . JIT library is stakless jit. It includes
 
 Usage : calc -e 1+2\*3+(4/a)+2 -v a=15
 
-This usage will interpret the value of 1+2\*3+(4/a)+2 and a is registered as a variable which has 15. 
+This example will calculate the expression with variable a has value 15
 
 Craft it in about 2 hours, no too much test done. 
 
